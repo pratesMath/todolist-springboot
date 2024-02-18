@@ -58,4 +58,4 @@ The platform chosen to deploy the developed application was [render.com](https:/
 
 <h2>Thank you</h2>
 
-Made w/ ❤ by [pratesMath](https://github.com/pratesMath "pratesMath").
+Made w/ 💙 by [pratesMath](https://github.com/pratesMath "pratesMath").
